@@ -1,7 +1,8 @@
-# cruzz_app
+# **cruzz_app**
+---
 ---
 
-Welcome aboard!
+**Welcome aboard!**
 
 [![Contributors needed](https://img.shields.io/badge/contributors-needed-yellow.svg)](CONTRIBUTING.md)
 
@@ -43,10 +44,9 @@ react-native start
 > * [React Native setup](https://facebook.github.io/react-native/docs/getting-started.html)
 
 ### Author
-
 [(Back to top👆🏻)](#cruzz_app)
 
-[Dipansh Khandelwal](https://github.com/DipanshKhandelwal)
+###### Dipansh Khandelwal
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="35" padding="10">](https://github.com/DipanshKhandelwal)
 [<img src="https://image.flaticon.com/icons/svg/281/281769.svg" width="35" padding="10">](dipanshkhandelwal@gmail.com)
